@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; my blog</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 12 Jun 2021 11:42:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>giữa kì</title>
+		<link>/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/</link>
+					<comments>/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/#comments</comments>
+		
+		<dc:creator><![CDATA[user 1]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 13:17:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/</guid>
+
+					<description><![CDATA[THÔNG TIN DANH HÀi Tiểu sử Hoài Linh sinh ngày 18 tháng 12 năm 1969 tại Cam Ranh, Khánh Hòa trong một gia đình có tất cả sáu người con (ba trai, ba gái) và anh là con thứ ba và là con trai trưởng trong gia đình. Cha mẹ anh quê ở Đại Lộc, Quảng Nam. Ngoài một người chị &#8230;<p class="read-more"> <a class="" href="/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/"> <span class="screen-reader-text">giữa kì</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="71" class="elementor elementor-71" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-7803a718 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7803a718" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4df2e2bb" data-id="4df2e2bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-164af8c elementor-widget elementor-widget-image" data-id="164af8c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="600" height="380" src="/wp-content/uploads/2021/05/benh-khien-hoai-linh-kho-so-chua-ca-nam-troi-van-khong-khoi-nhieu-nguoi-cung-mac-tieu-su-danh-hai-hoai-linh-2-512x275-1596774417-414-width600height380-7.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/05/benh-khien-hoai-linh-kho-so-chua-ca-nam-troi-van-khong-khoi-nhieu-nguoi-cung-mac-tieu-su-danh-hai-hoai-linh-2-512x275-1596774417-414-width600height380-7.jpg 600w, /wp-content/uploads/2021/05/benh-khien-hoai-linh-kho-so-chua-ca-nam-troi-van-khong-khoi-nhieu-nguoi-cung-mac-tieu-su-danh-hai-hoai-linh-2-512x275-1596774417-414-width600height380-7-416x263.jpg 416w, /wp-content/uploads/2021/05/benh-khien-hoai-linh-kho-so-chua-ca-nam-troi-van-khong-khoi-nhieu-nguoi-cung-mac-tieu-su-danh-hai-hoai-linh-2-512x275-1596774417-414-width600height380-7-300x190.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7d299e6c elementor-widget elementor-widget-text-editor" data-id="7d299e6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<!-- wp:heading -->
+<h2>THÔNG TIN DANH HÀi</h2>
+<!-- /wp:heading --><!-- wp:image {"id":72,"width":633,"height":401,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-resized is-style-default"></figure>
+<!-- /wp:image --><!-- wp:heading {"level":3} -->
+<h3>Tiểu sử</h3>
+<!-- /wp:heading --><!-- wp:paragraph -->
+<p>Hoài Linh sinh ngày 18 tháng 12 năm 1969 tại Cam Ranh, Khánh Hòa trong một gia đình có tất cả sáu người con (ba trai, ba gái) và anh là con thứ ba và là con trai trưởng trong gia đình. Cha mẹ anh quê ở Đại Lộc, Quảng Nam. Ngoài một người chị cả đã có gia đình còn ở lại Việt Nam, gia đình anh đã sang Hoa Kỳ theo diện HO vào năm 1995 vì trước đó cha anh phục vụ trong lực lượng Đặc Biệt với chức vụ đại uý, bị tù cải tạo 6 năm tại Biên Hòa, cho đến năm 1982 mới được tha về. Mẹ anh, bà Nguyễn Thị Lệ Phương, điều hành một nhà hộ sinh tư ở Cam Ranh.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Hoài Linh sống ở Cam Ranh cho đến năm 1975 sau đó theo gia đình di tản vào Dầu Giây, anh học hết bậc trung học ở trường phổ thông trung học Thống Nhất A (Trảng Bom). Vào năm 1988, gia đình anh trở về Cam Ranh để lo thủ tục xin hoàn lại nhà cửa bị tịch thu, sau đó vào Thành phố Hồ Chí Minh năm 1992 cho đến ngày sang Hoa Kỳ cuối năm 1993. Trong thời gian này Hoài Linh gia nhập đoàn ca múa nhạc Ponaga, sau đó theo học tại trường múa chuyên tu (tu nghiệp chuyên môn) cho đến năm 1994 lại quay về với đoàn múa.</p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3>Sự nghiệp</h3>
+<!-- /wp:heading --><!-- wp:paragraph -->
+<p>Hoài Linh là một nghệ sĩ được đánh giá là &#8220;đa tài&#8221;. Khi Hoài Linh có ý định theo đoàn múa, gia đình anh đã không đồng ý và tìm cách ngăn cản vì cha mẹ anh muốn anh theo ngành sư phạm, nhưng vì vấn đề lý lịch nên không thành. Trong thời gian cộng tác với đoàn múa Ponaga, anh đã đi lưu diễn khắp các tỉnh miền Trung và một số tỉnh miền Nam.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Vũ sư Đặng Hùng là người đã dạy anh về bộ môn múa, trong khi về dân ca thì anh tự học. Vào năm 1991, anh tham dự cuộc thi Những giọng hát hay tại Nha Trang và được giải thưởng. Tại Nha Trang, anh gặp Thanh Lộc (một diễn viên của ban kịch tỉnh Khánh Hòa mới giải tán, gia nhập đoàn Ponaga), mời anh phối hợp để làm một cặp hài diễn chung trong chương trình của đoàn. Hoài Linh vui vẻ nhận lời, hai người diễn thử và có kết quả tốt. Rồi từ đó anh chính thức bước vào lãnh vực hài kịch. Lần diễn đầu tiên tại Diên Khánhvới màn Tô Ánh Nguyệt tân thời với Thanh Lộc.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Hoài Linh còn có một năng khiếu đặc biệt khác là nói được nhiều giọng địa phương Việt Nam. Do khi di tản vào ở Long Khánh anh đã có dịp nói chuyện với rất nhiều người đến từ các miền khác nhau, nhờ vậy nên Hoài Linh dễ thu nhập được để bắt chước được giọng của nhiều miền trong khi thường ngày anh vẫn nói giọng Quảng Nam với gia đình.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Ngoài khả năng về múa, hát dân ca, diễn hài, Hoài Linh còn hát được cả tân nhạc.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Thời gian định cư tại Mỹ, gia đình của anh ở tại thành phố Orlando, bang Florida. Tại đây, anh đã được mời điều khiển chương trình một tiệc cưới tại nhà hàng Sài Gòn, sau đó liên tục được mời cộng tác thường trực tại đây cũng như được mời đi show nhiều nơi.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Vào khoảng tháng 10 năm 1994, một mình Hoài Linh trở về California sinh hoạt. Hoài Linh cư ngụ tại nhà ông cậu thứ 10 ở Los Angeles và 2 tuần sau anh mới có dịp xuống Little Saigon và được Nhật Tùng đưa đến quán cà phê Tao Nhân. Tại quán này, anh đã lên tấu hài bài Chuyện tình Karaoke và một bài tân nhạc. Đêm hôm đó cũng có mặt Ngô Tấn Triển, nghệ thuật diễn xuất của Hoài Linh đã được nhà viết kịch bản này để ý tới và sáng tác nhiều kịch bản cho Hoài Linh diễn sau này. Một tuần sau, anh đã gặp danh hài Vân Sơnvà được mời hợp tác sau khi danh hài Bảo Liêm đột ngột ngưng hợp tác với Vân Sơn.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Đến tháng 10 năm 1994, cặp Vân Sơn &#8211; Hoài Linh chính thức diễn chung với nhau trong chương trình văn nghệ cho một tổ chức ở Quận Cam. Kể từ cuối năm 1995, Hoài Linh cộng tác độc quyền cho Trung tâm Vân Sơn trong những sản phẩm video (kể từ video số 3) và audio, cũng như cùng nhau có mặt tại rất nhiều chương trình đại nhạc hội. Năm 1999, sau khi Hoài Linh trở về Việt Nam hoạt động, Hoài Linh đã tách ra Trung tâm Vân Sơn và thành lập những liveshow riêng của anh. Sau này Hoài Linh hợp tác với Trung tâm Thúy Ngavà Công ty Nụ cười Mới và kết hợp với danh hài Chí Tài cho đến nay.</p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3>Gia đình</h3>
+<!-- /wp:heading --><!-- wp:paragraph -->
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Tháng 8 năm 1996, Hoài Linh trở lại Việt Nam thăm người yêu là Thanh Hương, người anh đã qua một thời gian trước khi rời Việt Nam. Thanh Hương vốn ở một quán karaoke mà anh thường xuyên đến hát. Cũng chính công việc này, mà anh đã đặt tên cho CD mới nhất của mình là Tình Karaoke. , Về Việt Nam đó của anh là để chính thức kết hôn với Thanh Hương và lãnh đạo sang cuộc sống chung tại Hoa Kỳ từ tháng 4 năm 1997. Hai người chia tay sau đó.</span></span></p>
+<!-- /wp:paragraph --><!-- wp:embed {"url":"https://www.youtube.com/watch?v=wZTajZdA-dA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper"> </div>
+</figure>
+<!-- /wp:embed --><!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f46b9c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f46b9c2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-877b528" data-id="877b528" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0d259e elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="c0d259e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=1p7Ca2B0-qU&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d6f61e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d6f61e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6925411" data-id="6925411" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/29/thong-tin-tieu-su-danh-hai-hoai-linh/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NBA công bố các đề cử giải thưởng cá nhân mùa giải 2020-2021</title>
+		<link>/2021/05/22/nba-cong-bo-cac-de-cu-giai-thuong-ca-nhan-mua-giai-2020-2021/</link>
+					<comments>/2021/05/22/nba-cong-bo-cac-de-cu-giai-thuong-ca-nhan-mua-giai-2020-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[user 1]]></dc:creator>
+		<pubDate>Sat, 22 May 2021 04:32:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/2021/05/22/nba-cong-bo-cac-de-cu-giai-thuong-ca-nhan-mua-giai-2020-2021/</guid>
+
+					<description><![CDATA[Đình Cường (Ban Thể Thao) Cập nhật 06:02 ngày 22/05/2021 VTV.vn &#8211; Vào hôm qua, NBA đã công bố danh sách các chủ đề giải thưởng cá nhân cho các màn trình diễn ấn tượng theo mùa giải. Jeremy Lin tính tới việc giải nghệ trong mùa hè này Monty Williams nhận giải thưởng xuất &#8230;<p class="read-more"> <a class="" href="/2021/05/22/nba-cong-bo-cac-de-cu-giai-thuong-ca-nhan-mua-giai-2020-2021/"> <span class="screen-reader-text">NBA công bố các đề cử giải thưởng cá nhân mùa giải 2020-2021</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Đình Cường (Ban Thể Thao)</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> <strong>Cập nhật 06:02 ngày 22/05/2021</strong></font></font></p>
+
+
+
+<div class="wp-block-image is-style-default"><figure class="aligncenter is-resized"><img loading="lazy" src="https://vtv1.mediacdn.vn/thumb_w/650/2021/5/22/nba-awards-16216413694681925736772-crop-16216417205542118330210.jpeg" alt="" width="582" height="364"/></figure></div>
+
+
+
+<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VTV.vn &#8211; Vào hôm qua, NBA đã công bố danh sách các chủ đề giải thưởng cá nhân cho các màn trình diễn ấn tượng theo mùa giải.</font></font></h3>
+
+
+
+<ul><li><a href="https://vtv.vn/cac-mon-khac/jeremy-lin-tinh-toi-viec-giai-nghe-trong-mua-he-nay-20210521054439355.htm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jeremy Lin tính tới việc giải nghệ trong mùa hè này</font></font></a></li><li><a href="https://vtv.vn/cac-mon-khac/monty-williams-nhan-giai-hlv-xuat-sac-nhat-nba-mua-2020-21-20210519044613936.htm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monty Williams nhận giải thưởng xuất sắc nhất NBA mùa 2020/21</font></font></a></li><li><a href="https://vtv.vn/cac-mon-khac/the-thuc-play-in-tro-lai-voi-nba-playoffs-2021-20210518063353274.htm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Play-in thể thức trở lại với NBA Playoffs 2021</font></font></a></li><li><a href="https://vtv.vn/cac-mon-khac/stephen-curry-gianh-danh-hieu-vua-ghi-diem-nba-2020-2021-2021051806304077.htm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stephen Curry danh hiệu Vua ghi điểm NBA 2020 &#8211; 2021</font></font></a></li></ul>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><strong>Giannis Antetokounmpo sẽ không có liên kết thứ 3 lần thứ 3 có danh hiệu Cầu thủ xuất sắc nhất mùa giải (MVP), bởi anh không có tên trong danh sách đề cử hạng mục này mùa 2021. 3 cá nhân được đề cử MVP là Stephen Curry của Golden State Warriors, Nikola Jokic của Denver Nuggets và Joel Embiid của Philadelphia 76ers. Curry được dự báo là có nhiều cơ chế giải.</strong></font></font></p>
+
+
+
+<p>Cựu MVP &#8211; Derrick Rose cũng đã nhận được đánh giá xứng đáng khi chơi rất hay trong màu áo New York Knicks. Anh cùng với Jordan Clarkson và Joe Ingles của Utah Jazz có tên trong danh sách đề cử hạng mục Cầu thủ dự bị xuất sắc nhất mùa giải. Theo các chuyên gia, Jordan Clarkson là người có nhiều cơ hội chiến thắng nhất</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://vtv1.mediacdn.vn/thumb_w/640/2021/5/22/3-cau-thu-co-ten-trong-danh-sach-de-cu-tan-binh-xuat-sac-nhat-mua-giai-1621641369481692735947.jpeg" alt="NBA công bố các đề cử giải thưởng cá nhân mùa giải 2020-2021 - Ảnh 1." data-id=""/></figure></li></ul></figure>
+</div></div>
+
+
+
+<p>3 cầu thủ có tên trong danh sách đề cử Tân binh xuất sắc nhất mùa giải</p>
+
+
+
+<p>3 cầu thủ LaMelo Ball của Charlotte Hornets, Anthony Edwards của Minnesota Timberwolves và Tyrese Halliburton của Sacramento Kings được đề cử cho hạng mục Tân binh của mùa giải. Anthony Edwards &#8211; người chơi trọn vẹn cả mùa &#8211; được đánh giá có thể giành giải.</p>
+
+
+
+<p>Julius Randle của New York Knicks, Jerami Grant của Detroit Pistons và Michael Porter Jr. của Denver Nuggets là 3 cái tên cho đề cử Cầu thủ tiến bộ nhất mùa giải. Randle được cho là có cơ hội giành giải nhất, bởi anh đã có mặt trong đội hình All-star game hồi tháng 3 năm nay và đang chơi tốt trong màu áo New York Knicks.</p>
+
+
+
+<p>3 cầu thủ phòng ngự xuất sắc nhất có tên trong danh sách đề cử là Rudy Gobert của Utah Jazz, Ben Simmons của Philadelphia 76ers, Draymond Green của Golden State Warriors. Gobert chiếm 1 chút ưu thế ở giải thưởng này.</p>
+
+
+
+<figure class="wp-block-image is-style-default"><img src="https://vtv1.mediacdn.vn/thumb_w/640/2021/5/22/3-hlv-co-ten-trong-danh-sach-de-cu-nha-cam-quan-xuat-sac-nhat-mua-giai-16216413694781958074524.jpeg" alt="NBA công bố các đề cử giải thưởng cá nhân mùa giải 2020-2021 - Ảnh 2." title="NBA công bố các đề cử giải thưởng cá nhân mùa giải 2020-2021 - Ảnh 2."/></figure>
+
+
+
+<p>3 HLV có tên trong danh sách đề cử Nhà cầm quân xuất sắc nhất mùa giải</p>
+
+
+
+<p>Ở hạng mục HLV xuất sắc nhất, những nhà cầm quân được đánh giá cao nhất là Monty Williams của New Orleans Pelicans, Quin Snyder của Utah Jazz và Tom Thibodeau của New York Knicks. Monty Williams &#8211; người được bầu làm HLV xuất sắc nhất mùa giải của Hiệp hội các HLV bóng rổ chuyên nghiệp Mỹ &#8211; đang có nhiều cơ hội giành giải.</p>
+
+
+
+<p>NBA sẽ tổ chức lấy ý kiến từ các chuyên gia, các giám đốc điều hành của các đội bóng cho từng hạng mục giải thưởng. Lễ trao giải sẽ được tổ chức ở 1 thời điểm chưa xác định cụ thể sau khi mùa giải này kết thúc.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/22/nba-cong-bo-cac-de-cu-giai-thuong-ca-nhan-mua-giai-2020-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
